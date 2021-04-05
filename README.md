@@ -3,7 +3,6 @@
 - 👨‍💻 A Software Engineer, turned Machine Learning Engineer
 - 😄 Building products that deliver value brings me joy
 
-
 ### Currently
 
 - 💻 Working as a freelancer on multiple projects, as Software Engineer / ML Engineer
@@ -56,12 +55,13 @@
 ![](https://img.shields.io/badge/Azure-437fa3?logo=microsoft&logoColor=fff)
 ![](https://img.shields.io/badge/GCP-437fa3?logo=google&logoColor=fff)
 
-
 ### Still reading?
 
 - 📃 Find out more about me on [my LinkedIn](https://www.linkedin.com/in/alexdevmotion)
 
 ### Stats
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=alexdevmotion&show_icons=true&theme=react" alt="GitHub Stats">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdevmotion&layout=compact&theme=react" alt="Most Used Languages">
+<div style="display:flex">
+    <img height="150" style="padding-right:1rem" src="https://github-readme-stats.vercel.app/api?username=alexdevmotion&show_icons=true&theme=react" alt="GitHub Stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdevmotion&layout=compact&theme=react" alt="Most Used Languages">
+</div>
