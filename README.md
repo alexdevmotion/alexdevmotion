@@ -63,5 +63,5 @@
 
 ### Stats
 
-<img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=alexdevmotion&show_icons=true&theme=react" alt="GitHub Stats">
-<img style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdevmotion&layout=compact&theme=react" alt="Most Used Languages">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=alexdevmotion&show_icons=true&theme=react" alt="GitHub Stats">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdevmotion&layout=compact&theme=react" alt="Most Used Languages">
