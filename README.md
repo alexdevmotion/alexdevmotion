@@ -6,8 +6,8 @@ into systems people actually use.
 
 Currently co-founder & CTO at [stock.estate](https://stock.estate), Romania's
 first and largest real estate crowdfunding platform. Through [DevMotion](https://devmotion.ro),
-I build software, AI systems, and products for people who need to move from
-idea to working product.
+my own company, I do contract machine learning work and build AI systems for
+people who need to move from idea to working product.
 
 ### What I build
 
