@@ -21,7 +21,7 @@ people who need to move from idea to working product.
 - [LinkedIn](https://www.linkedin.com/in/alexdevmotion)
 - [stock.estate](https://stock.estate)
 - [DevMotion](https://devmotion.ro)
-- [constantin.al](https://constantin.al)
+- [Personal website](https://constantin.al)
 
 ### Stats
 
