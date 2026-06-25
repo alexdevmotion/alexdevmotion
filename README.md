@@ -5,7 +5,7 @@ computer science and machine learning, and I like turning ambiguous problems
 into systems people actually use.
 
 Currently co-founder & CTO at [stock.estate](https://stock.estate), Romania's
-first real estate crowdfunding platform. Through [DevMotion](https://devmotion.ro),
+first and largest real estate crowdfunding platform. Through [DevMotion](https://devmotion.ro),
 I build software, AI systems, and products for people who need to move from
 idea to working product.
 
