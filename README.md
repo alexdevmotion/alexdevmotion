@@ -6,7 +6,8 @@ actually use.
 
 Currently co-founder & CTO at [stock.estate](https://stock.estate), Romania's
 first real estate crowdfunding platform. I also build AI-powered tools for
-insurance claim management and custom products through DevMotion.
+insurance claim management and custom products through
+[DevMotion](https://devmotion.ro).
 
 ### What I build
 
@@ -14,9 +15,12 @@ insurance claim management and custom products through DevMotion.
 - Applied AI for workflows, recommendations, automation, and decision support
 - Fintech, proptech, data-heavy SaaS, and tools for teams that need to move
 
-### How to reach me
+### Links
 
-Leave me a message on [LinkedIn](https://www.linkedin.com/in/alexdevmotion).
+- [LinkedIn](https://www.linkedin.com/in/alexdevmotion)
+- [stock.estate](https://stock.estate)
+- [DevMotion](https://devmotion.ro)
+- [constantin.al](https://constantin.al)
 
 ### Stats
 
