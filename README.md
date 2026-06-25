@@ -1,11 +1,22 @@
-## 👋 Hello world! Alex here.
+## Hello world. Alex here.
 
-- 👨‍💻 A Software Engineer, turned Machine Learning Engineer
-- 😄 Building products that deliver value brings me joy
+Founder-builder based in Bucharest. I work across software engineering,
+machine learning, and product, turning ambiguous problems into systems people
+actually use.
+
+Currently co-founder & CTO at [stock.estate](https://stock.estate), Romania's
+first real estate crowdfunding platform. I also build AI-powered tools for
+insurance claim management and custom products through DevMotion.
+
+### What I build
+
+- Real products with business weight behind them
+- Applied AI for workflows, recommendations, automation, and decision support
+- Fintech, proptech, data-heavy SaaS, and tools for teams that need to move
 
 ### How to reach me
 
-- 📩 Leave me a message on [LinkedIn](https://www.linkedin.com/in/alexdevmotion)
+Leave me a message on [LinkedIn](https://www.linkedin.com/in/alexdevmotion).
 
 ### Stats
 
