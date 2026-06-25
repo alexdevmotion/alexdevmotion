@@ -1,19 +1,20 @@
 ## Hello world. Alex here.
 
-Founder-builder based in Bucharest. I work across software engineering,
-machine learning, and product, turning ambiguous problems into systems people
-actually use.
+Founder, builder, and agentic engineer based in Bucharest. My background is in
+computer science and machine learning, and I like turning ambiguous problems
+into systems people actually use.
 
 Currently co-founder & CTO at [stock.estate](https://stock.estate), Romania's
-first real estate crowdfunding platform. I also build AI-powered tools for
-insurance claim management and custom products through
-[DevMotion](https://devmotion.ro).
+first real estate crowdfunding platform. Through [DevMotion](https://devmotion.ro),
+I build software, AI systems, and products for people who need to move from
+idea to working product.
 
 ### What I build
 
-- Real products with business weight behind them
-- Applied AI for workflows, recommendations, automation, and decision support
-- Fintech, proptech, data-heavy SaaS, and tools for teams that need to move
+- Founder-led products from idea to production
+- Agentic workflows, automation, and AI-assisted tools
+- Applied machine learning for recommendations, decision support, and data-heavy systems
+- Fintech, proptech, SaaS, and useful software with business weight behind it
 
 ### Links
 
