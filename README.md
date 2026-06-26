@@ -11,10 +11,9 @@ people who need to move from idea to working product.
 
 ### What I build
 
-- Founder-led products from idea to production
+- I bring ideas to life as a founder
 - Agentic workflows, automation, and AI-assisted tools
-- Applied machine learning for recommendations, decision support, and data-heavy systems
-- Fintech, proptech, SaaS, and useful software with business weight behind it
+- High stakes machine learning systems
 
 ### Links
 
